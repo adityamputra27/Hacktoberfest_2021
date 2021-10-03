@@ -1,0 +1,19 @@
+public class OperatorJava {
+    public static void main(String[] args) {
+      
+        int penjumlahan = 100 + 50;
+        int pengurangan = 100 - 50;
+      
+        int A = 10;
+        int B = 5;
+        int perkalian = A * B;
+              
+        System.out.println(penjumlahan);
+        System.out.println(pengurangan);
+        System.out.println(perkalian);
+    }
+}
+Maka hasilnya 10 x 5 adalah 50
+150
+50
+50
